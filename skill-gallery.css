@@ -1,0 +1,10 @@
+.skill-container {
+    display: flex;
+    justify-content: center;         /* Center content horizontally */
+    align-items: flex-start;         /* Align items at the top */
+    flex-wrap: wrap;                 /* Allow cards to wrap to next line */
+    gap: 20px;                       /* Space between cards */
+    padding: 40px 20px;              /* Padding around the container */
+    min-height: 100vh;               /* Ensure full screen height */
+  }
+  

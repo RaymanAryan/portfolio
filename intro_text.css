@@ -1,0 +1,30 @@
+.text-container {
+    display: flex;
+    justify-content: center;         /* Center vertically */
+    align-items: flex-start;             /* Center horizontally */
+    flex-direction: column;
+    height: 100vh;
+    text-align: center;
+    padding: 0 80px;
+  }
+
+
+  /* .text-container h1,
+  .text-container h2 {
+    position: relative;
+    z-index: 1;
+    margin: 10px 0;
+    color: white;
+  } */
+  
+
+  .subtext {
+    color: #eee;
+    font-size: 1.1rem;
+    text-align: center;
+    z-index: 1;
+    max-width: 600px;
+    padding: 0 20px;
+    margin-top: 10px;
+  }
+  
